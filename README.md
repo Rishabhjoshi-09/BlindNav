@@ -25,8 +25,6 @@ BlindNav is designed to be affordable, user-friendly, and built for real-life co
 | 📍 GPS Tracking | Live location sharing for emergencies |
 | 💡 Night Visibility LED | Auto-activates in low light via LDR sensor |
 
-<br><br>
-
 
 ##  How It Works
 
@@ -51,3 +49,18 @@ loop() {
     }
 }
 
+
+<br><br>
+<h2>Components</h2>
+
+| Component | Purpose|
+| ESP 32 | Main microcontroller |
+| HC-SR04 (x2) | Obstacle detection - front & head level |
+| Vibration Motor | Haptic alert feedfack |
+| Speaker | Audio Alerts |
+| Water Sensor Module | Puddle detection at base |
+| SOS Push Button | Emergency alert trigger |
+| GPS Module (NEO-6M) | Location Tracking |
+| Light Sensor (LDR) | Auto Night LED |
+| Li-ion Battery + TP4056 | Rechargeable power |
+| Microphone + DFPlayer | Voice Feedback |
