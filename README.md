@@ -27,26 +27,7 @@ BlindNav is designed to be affordable, user-friendly, and built for real-life co
 
 <br><br>
 
-<h2>How It Works</h2>
 
-loop() {
-  distance_front = ultrasonic.read(FRONT_SENSOR);
-  distance_head = ultrasonic.read(HEAD_SENSOR);
-
-  if (distance_front < 30 || distance_head < 30) {
-    vibrate(FAST);
-  } else if (distance_front < 80) {
-    vibration(SLOW);
-  }
-
-  if (waterSensor.detected()) {
-    alert("WATER")'
-  }
-
-  if (sosButton.pressed()) {
-    sendAlert(gps.getLocation());
-  }
-}
 
 ## ⚙️ How It Works
 
