@@ -20,6 +20,8 @@ BlindNav is designed to be affordable, user-friendly, and built for real-life co
 
 <h1>PCB</h1>
 
+<h1>Wiring Diagram</h1>
+
 <h1>Features</h1>
 
 | Feature | Description |
