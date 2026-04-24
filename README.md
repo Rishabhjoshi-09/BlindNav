@@ -15,6 +15,7 @@ BlindNav is designed to be affordable, user-friendly, and built for real-life co
 
 <br><br>
 Features
+<hr>
 
 | Feature | Description |
 | ------- | ----------- |
