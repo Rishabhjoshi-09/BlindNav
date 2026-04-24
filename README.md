@@ -44,7 +44,7 @@ BlindNav is designed to be affordable, user-friendly, and built for real-life co
 | Microphone + DFPlayer | Voice Feedback |
 
 
-
+<br><br>
 ##  How It Works
 
 ```cpp
