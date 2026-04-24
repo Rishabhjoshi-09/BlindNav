@@ -47,3 +47,28 @@ loop() {
     sendAlert(gps.getLocation());
   }
 }
+
+## ⚙️ How It Works
+
+```cpp
+// BlindNav core loop — simplified
+
+loop() {
+    distance_front = ultrasonic.read(FRONT_SENSOR);
+    distance_head  = ultrasonic.read(HEAD_SENSOR);
+
+    if (distance_front < 30 || distance_head < 30) {
+        vibrate(FAST);   // close obstacle
+    } else if (distance_front < 80) {
+        vibrate(SLOW);   // farther obstacle
+    }
+
+    if (waterSensor.detected()) {
+        alert("WATER");
+    }
+
+    if (sosButton.pressed()) {
+        sendAlert(gps.getLocation());
+    }
+}
+
