@@ -14,6 +14,7 @@ BlindNav is designed to be affordable, user-friendly, and built for real-life co
 <img width="740" height="1058" alt="final stick design" src="https://github.com/user-attachments/assets/d8645a04-a5bb-4fb4-9df3-0c92f85af765" />
 
 <br><br>
+Features
 
 | Feature | Description |
 | ------- | ----------- |
