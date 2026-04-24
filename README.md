@@ -29,10 +29,9 @@ BlindNav is designed to be affordable, user-friendly, and built for real-life co
 
 
 
-## ⚙️ How It Works
+##  How It Works
 
 ```cpp
-// BlindNav core loop — simplified
 
 loop() {
     distance_front = ultrasonic.read(FRONT_SENSOR);
