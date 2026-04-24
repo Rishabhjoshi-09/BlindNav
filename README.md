@@ -1,4 +1,4 @@
-# BlindNav
+<h1>BlindNav</h1>
 BlindNav is a smart assistive device designed to help visually impaired individuals navigate their surroundings safely and independently. Built around an ESP32 microcontroller, it combines multiple sensors and feedback systems into a lightweight, rechargeable walking stick that responds to real-world conditions in real time.
 
 The device uses ultrasonic sensors positioned at both ground and head level to detect obstacles across multiple angles. When an obstacle is detected, the stick responds with different vibration patterns - fast pulses for close-range threats and slower pulses for distant ones- giving the user intuitive, immediate awareness without requiring sight or complex interpretation.
@@ -14,7 +14,7 @@ BlindNav is designed to be affordable, user-friendly, and built for real-life co
 <img width="740" height="1058" alt="final stick design" src="https://github.com/user-attachments/assets/d8645a04-a5bb-4fb4-9df3-0c92f85af765" />
 
 
-<h2>CAD</h2>
+<h1>CAD</h1>
 
 <img width="450" height="800" alt="3d stick design" src="https://github.com/user-attachments/assets/4a47cd7e-c116-449c-93c4-e7a45785e245" />    <img width="450" height="800" alt="3d stick design (transparent)" src="https://github.com/user-attachments/assets/16cabbfe-4c08-470d-befa-637bafe76d5b" />
 
@@ -49,7 +49,7 @@ BlindNav is designed to be affordable, user-friendly, and built for real-life co
 | Microphone + DFPlayer | Voice Feedback |
 
 
-##  How It Works
+<h1>How It Works</h1>
 
 ```cpp
 
