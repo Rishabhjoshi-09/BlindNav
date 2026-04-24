@@ -13,7 +13,8 @@ BlindNav is designed to be affordable, user-friendly, and built for real-life co
 
 <img width="740" height="1058" alt="final stick design" src="https://github.com/user-attachments/assets/d8645a04-a5bb-4fb4-9df3-0c92f85af765" />
 
-<br><br>
+
+
 <h2>Features</h2>
 
 | Feature | Description |
@@ -25,7 +26,8 @@ BlindNav is designed to be affordable, user-friendly, and built for real-life co
 | 📍 GPS Tracking | Live location sharing for emergencies |
 | 💡 Night Visibility LED | Auto-activates in low light via LDR sensor |
 
-<br><br>
+
+
 <h2>Components</h2>
 
 | Component | Purpose|
@@ -41,7 +43,7 @@ BlindNav is designed to be affordable, user-friendly, and built for real-life co
 | Li-ion Battery + TP4056 | Rechargeable power |
 | Microphone + DFPlayer | Voice Feedback |
 
-<br><br>
+
 ##  How It Works
 
 ```cpp
