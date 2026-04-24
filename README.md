@@ -24,3 +24,26 @@ BlindNav is designed to be affordable, user-friendly, and built for real-life co
 | 🆘 Emergency SOS Button | One press sends GPS location alert to family |
 | 📍 GPS Tracking | Live location sharing for emergencies |
 | 💡 Night Visibility LED | Auto-activates in low light via LDR sensor |
+
+<br><br>
+
+<h2>How It Works</h2>
+
+loop() {
+  distance_front = ultrasonic.read(FRONT_SENSOR);
+  distance_head = ultrasonic.read(HEAD_SENSOR);
+
+  if (distance_front < 30 || distance_head < 30) {
+    vibrate(FAST);
+  } else if (distance_front < 80) {
+    vibration(SLOW);
+  }
+
+  if (waterSensor.detected()) {
+    alert("WATER")'
+  }
+
+  if (sosButton.pressed()) {
+    sendAlert(gps.getLocation());
+  }
+}
