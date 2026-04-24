@@ -12,3 +12,12 @@ Night safety is handled through automatic LED activation in low-light conditions
 BlindNav is designed to be affordable, user-friendly, and built for real-life conditions rather than controlled environments. Every feature prioritizes practical usability - ergonomic form factor to the multi-modal alert system. The goal is to build a fully functional device that meaningfully improves safety, confidence, and independence for visually impaired users in everyday situations.
 
 <img width="740" height="1058" alt="final stick design" src="https://github.com/user-attachments/assets/d8645a04-a5bb-4fb4-9df3-0c92f85af765" />
+
+| Feature | Description |
+| ------- | ----------- |
+| 🦯 Dual Obstacle Detection | Ultrasonic sensors at ground and head level |
+| 📳 Smart vibration Feedback | Fast = Close, Slow = Far - distance understood instantely |
+| 💧 Water / Puddle Detection | Sensor at base alerts before user step into water |
+| 🆘 Emergency SOS Button | One press sends GPS location alert to family |
+| 📍 GPS Tracking | Live location sharing for emergencies |
+| 💡 Night Visibility LED | Auto-activates in low light via LDR sensor |
