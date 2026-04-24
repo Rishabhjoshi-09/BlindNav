@@ -25,8 +25,6 @@ BlindNav is designed to be affordable, user-friendly, and built for real-life co
 | 📍 GPS Tracking | Live location sharing for emergencies |
 | 💡 Night Visibility LED | Auto-activates in low light via LDR sensor |
 
-
-
 <br><br>
 <h2>Components</h2>
 
@@ -42,7 +40,6 @@ BlindNav is designed to be affordable, user-friendly, and built for real-life co
 | Light Sensor (LDR) | Auto Night LED |
 | Li-ion Battery + TP4056 | Rechargeable power |
 | Microphone + DFPlayer | Voice Feedback |
-
 
 <br><br>
 ##  How It Works
