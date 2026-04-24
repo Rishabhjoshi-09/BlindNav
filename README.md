@@ -31,6 +31,7 @@ BlindNav is designed to be affordable, user-friendly, and built for real-life co
 <h2>Components</h2>
 
 | Component | Purpose|
+| --------- | ------- |
 | ESP 32 | Main microcontroller |
 | HC-SR04 (x2) | Obstacle detection - front & head level |
 | Vibration Motor | Haptic alert feedfack |
