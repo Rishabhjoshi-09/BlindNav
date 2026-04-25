@@ -16,11 +16,11 @@ BlindNav is designed to be affordable, user-friendly, and built for real-life co
 
 <h1>CAD</h1>
 
-<p align="left">
+<div style="display: flex; aligh-items: flex-start; gap: 10px; ">
     <img width="400" height="700" alt="3d stick design" src="https://github.com/user-attachments/assets/4a47cd7e-c116-449c-93c4-e7a45785e245" />
-</p>    <p align="right">
     <img width="400" height="700" alt="3d stick design (transparent)" src="https://github.com/user-attachments/assets/16cabbfe-4c08-470d-befa-637bafe76d5b" />
-</p>
+</div>
+
 
 <h1>PCB</h1>
 
