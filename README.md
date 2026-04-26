@@ -89,3 +89,22 @@ loop() {
         sendAlert(gps.getLocation());
     }
 }
+```
+
+<h1> How To Use & Install </h1>
+
+1. Hardware Assembly
+   * Secure the ESP32 and sensors into the 3d printed handle.
+   * Ensure the water sensor is mounted at the very tip of the cane.
+   * Calibrate the head-level sensor to a 15' upward tilt.
+
+2. Software Setup
+   1) Clone this repository: git clone https://github.com/Rishabhjoshi09/BlindNav.git
+   2) Open the .ion file in the Arduino IDE.
+   3) Install necessary libraries (NewPing, TinyGPS++, etc.).
+   4) Flash the code to your ESP32.
+
+3. Operation
+   * Power ON : Use the toggle switch on the handle.
+   * Navigation : Walk normally; the stick will vibrate when obstacles are within 100cm.
+   * SOS : Press and hold the red button for 3 seconds to send a location alert.
