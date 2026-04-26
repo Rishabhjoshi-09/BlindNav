@@ -1,10 +1,10 @@
 Item , Purpose , Price(USD) , Source , Link
-ESP32 , Main microcontroller , , ,
-HC-SR04 Ultrasonic Sensor (x2) , Obstacle Detection (front & head level) , , ,
-Vibration Motor , Haptic alert feedback , , ,
+ESP32 , Main microcontroller , $7.30, Amazon,https://amzn.in/d/0gHa0y1Y
+HC-SR04 Ultrasonic Sensor (x2) , Obstacle Detection (front & head level) , $2.98,Amazon ,https://amzn.in/d/0fAaNY3Y
+Vibration Motor , Haptic alert feedback ,$2.5 , Amazon ,https://amzn.in/d/07rawmSD
 Speaker , Audio Alerts , , ,
-Water Sensor Module , Detects Puddles At Base , , ,
-SOS Button , Emergency alert trigger , , ,
+Water Sensor Module , Detects Puddles At Base ,$1.8 ,Amazon  ,https://amzn.in/d/0bwGx5IL
+SOS Button , Emergency alert trigger ,$0.5 , Amazon ,
 GPS Module (NEO-6M) , Location Tracking , , ,
 Light Sensor (LDR) , Auto Night LED Control , , ,
 Li-ion Battery (18650) , Power Supply , , ,
