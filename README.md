@@ -32,7 +32,7 @@ src="<img width="400" height="700" alt="3d stick design (transparent)" src="http
 <h1>PCB</h1>
 
 <h1>Wiring Diagram</h1>
-<img width="400" height="700" alt="Wiring Diagram" src="https://github.com/user-attachments/assets/6689b45c-7df5-4b0f-b640-5c3a435fc7cb" />
+<img width="500" height="700" alt="Wiring Diagram" src="https://github.com/user-attachments/assets/6689b45c-7df5-4b0f-b640-5c3a435fc7cb" />
 
 
 <h1>Features</h1>
