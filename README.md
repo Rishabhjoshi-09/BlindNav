@@ -100,7 +100,7 @@ loop() {
 
 2. Software Setup
    1) Clone this repository: git clone https://github.com/Rishabhjoshi09/BlindNav.git
-   2) Open the .ion file in the Arduino IDE.
+   2) Open the .ino file in the Arduino IDE.
    3) Install necessary libraries (NewPing, TinyGPS++, etc.).
    4) Flash the code to your ESP32.
 
