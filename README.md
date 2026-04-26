@@ -19,25 +19,6 @@ BlindNav is a smart assistive device designed to provide visually impaired indiv
 
 * **Environmental Awareness:** It includes an LDR (Light Dependent Resistor) that atutomatically turns on Night Visibility LEDs, making the user visible to vehicles and pedestrians in low-light conditions. 
 
-<h1>CAD</h1>
-<div style="display: flex; align-items: flex-start; gap: 10px; ">
-    <img
-src="<img width="553" height="801" alt="3d stick design" src="https://github.com/user-attachments/assets/c5c4fe16-a121-431c-be8e-3e0cf2b6f1bf" />" width="45%" alt="3d stick design">
-    <img
-src="<img width="400" height="700" alt="3d stick design (transparent)" src="https://github.com/user-attachments/assets/db94706c-37aa-40ac-8b90-eb9a05495142" />" width="45%" alt="Internal 3d stick design">
-</div>
-
-
-
-
-
-
-
-
-<h1>PCB</h1>
-
-<h1>Wiring Diagram</h1>
-<img width="500" height="700" alt="Wiring Diagram" src="https://github.com/user-attachments/assets/6689b45c-7df5-4b0f-b640-5c3a435fc7cb" />
 
 
 <h1>Features</h1>
@@ -67,6 +48,30 @@ src="<img width="400" height="700" alt="3d stick design (transparent)" src="http
 | Light Sensor (LDR) | Auto Night LED |
 | Li-ion Battery + TP4056 | Rechargeable power |
 | Microphone + DFPlayer | Voice Feedback |
+
+
+
+<h1>CAD</h1>
+<div style="display: flex; align-items: flex-start; gap: 10px; ">
+    <img
+src="<img width="553" height="801" alt="3d stick design" src="https://github.com/user-attachments/assets/c5c4fe16-a121-431c-be8e-3e0cf2b6f1bf" />" width="45%" alt="3d stick design">
+    <img
+src="<img width="400" height="700" alt="3d stick design (transparent)" src="https://github.com/user-attachments/assets/db94706c-37aa-40ac-8b90-eb9a05495142" />" width="45%" alt="Internal 3d stick design">
+</div>
+
+
+
+
+
+
+
+
+<h1>PCB</h1>
+
+<h1>Wiring Diagram</h1>
+<img width="500" height="700" alt="Wiring Diagram" src="https://github.com/user-attachments/assets/6689b45c-7df5-4b0f-b640-5c3a435fc7cb" />
+
+
 
 
 <h1>How It Works</h1>
