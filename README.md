@@ -52,16 +52,13 @@ BlindNav is a smart assistive device designed to provide visually impaired indiv
 
 
 <h1>CAD</h1>
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/e2e4a9e0-8637-4fe9-9dbe-4c495f500058" />
-
-
-
-
-
-
-
+<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/f4eebef2-ef08-4568-9773-665c6cfdc4e1" />
 
 <h1>PCB</h1>
+
+
+
+
 
 <h1>Wiring Diagram</h1>
 <img width="500" height="700" alt="Wiring Diagram" src="https://github.com/user-attachments/assets/6689b45c-7df5-4b0f-b640-5c3a435fc7cb" />
