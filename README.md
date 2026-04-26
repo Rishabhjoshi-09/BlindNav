@@ -6,12 +6,12 @@ Empowering Independence Through Intelligent Obstacle Detection & Real-Time Feedb
 Why BlindNav ?
 BlindNav is a smart assistive device designed to provide visually impaired individuals with a safer and more independent navigation experience. Unlike a tradition white cane, it uses electronics to detect hazards that are otherwise "invisible" to a standard stick.
 * Electronic Safety Net:  It is an ESP32 powered "smart stick" that uses ultrasonic sensors to detect obstacles in real-time, acting as an extension of the user's senses.
-. Dual-level Protection: While traditional canes only find obstacles at ground level, BlindNav detects both ground-level (puddle, staris) and head-level (signboards, tree branches) hazards.
-. Intelligent Feedback System: It communicates with the user through two main ways:
-    Haptics: A vibration motor that changes speed based on how close an object is.
-    Voice: Audio alerts (via a speaker) that give specific warnings like "Water Detected".
-. Emergency Lifeline: It features an integrated SOS button and GPS module. If the user is lost or in danger, one press sends their live location to a trusted contact.
-. Environmental Awareness: It includes an LDR (Light Dependent Resistor) that atutomatically turns on Night Visibility LEDs, making the user visible to vehicles and pedestrians in low-light conditions. 
+* Dual-level Protection: While traditional canes only find obstacles at ground level, BlindNav detects both ground-level (puddle, staris) and head-level (signboards, tree branches) hazards.
+* Intelligent Feedback System: It communicates with the user through two main ways:
+    * Haptics: A vibration motor that changes speed based on how close an object is.
+    * Voice: Audio alerts (via a speaker) that give specific warnings like "Water Detected".
+* Emergency Lifeline: It features an integrated SOS button and GPS module. If the user is lost or in danger, one press sends their live location to a trusted contact.
+* Environmental Awareness: It includes an LDR (Light Dependent Resistor) that atutomatically turns on Night Visibility LEDs, making the user visible to vehicles and pedestrians in low-light conditions. 
 
 <h1>CAD</h1>
 <div style="display: flex; align-items: flex-start; gap: 10px; ">
