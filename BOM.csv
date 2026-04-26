@@ -1,1 +1,17 @@
-
+Item , Purpose , Price(USD) , Source , Link
+ESP32 , Main microcontroller , , , 
+HC-SR04 Ultrasonic Sensor (x2) , Obstacle Detection (front & head level) , ,,
+Vibration Motor , Haptic alert feedback , , , 
+Speaker , Audio Alerts , , , 
+Water Sensor Module , Detects Puddles At Base , , , 
+SOS Button , Emergency alert trigger , , , 
+GPS Module (NEO-6M) , Location Tracking , , , 
+Light Sensor (LDR) , Auto Night LED Control , , ,
+Li-ion Battery (18650) , Power Supply , , ,
+TP4056 Chargin Module , Battery Charging & Protection , , , 
+Microphone Module , Sound Input , , ,
+DFPlayer Mini , Voice Feedback System , , ,
+Jumper Wires , Connections Between Components , , ,
+PCB / Perfboard , Mounting components , , , 
+Switch (Power) , Turn device ON/OFF , , , 
+Stick Body , Holds All Components , Owned/Custom , , 
