@@ -1,16 +1,16 @@
 Item , Purpose , Price(USD) , Source , Link
-ESP32 , Main microcontroller , $7.30, Amazon,https://amzn.in/d/0gHa0y1Y
+ESP32 , Main microcontroller , $ 7.30, Amazon,https://amzn.in/d/0gHa0y1Y
 HC-SR04 Ultrasonic Sensor (x2) , Obstacle Detection (front & head level) , $2.98,Amazon ,https://amzn.in/d/0fAaNY3Y
-Vibration Motor , Haptic alert feedback ,$2.5 , Amazon ,https://amzn.in/d/07rawmSD
+Vibration Motor , Haptic alert feedback , $ 2.5 , Amazon ,https://amzn.in/d/07rawmSD
 Speaker , Audio Alerts , , ,
-Water Sensor Module , Detects Puddles At Base ,$1.8 ,Amazon  ,https://amzn.in/d/0bwGx5IL
-SOS Button , Emergency alert trigger ,$0.5 , Amazon ,
+Water Sensor Module , Detects Puddles At Base ,$ 1.8 ,Amazon  ,https://amzn.in/d/0bwGx5IL
+SOS Button , Emergency alert trigger ,$ 0.5 , Amazon ,
 GPS Module (NEO-6M) , Location Tracking , $ 4.38 , Flipkart , https://dl.flipkart.com/s/_BzfAxNNNN
 Light Sensor (LDR) , Auto Night LED Control , $ 1.6 , Amazon ,https://amzn.in/d/0fZwNgjv
 Li-ion Battery (18650) , Power Supply , $ 3.2 , Amazon , https://amzn.in/d/0aF3MQx7
 TP4056 Chargin Module , Battery Charging & Protection , $ 0.58 , Amazon , https://amzn.in/d/00pfBEQN
 Microphone Module , Sound Input , $ 2 , Amazon , https://amzn.in/d/07QyzQxp
-DFPlayer Mini , Voice Feedback System , , ,
+DFPlayer Mini , Voice Feedback System , $ 4.23 , Amazon , https://amzn.in/d/08cgAzWu
 Jumper Wires , Connections Between Components , , ,
 PCB / Perfboard , Mounting components , , ,
 Switch (Power) , Turn device ON/OFF , , ,
