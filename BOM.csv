@@ -1,5 +1,5 @@
 Item , Purpose , Price(USD) , Source , Link
-ESP32 , Main microcontroller , , ,
+ESP32 , Main microcontroller ,4 , ,
 HC-SR04 Ultrasonic Sensor (x2) , Obstacle Detection (front & head level) , , ,
 Vibration Motor , Haptic alert feedback , , ,
 Speaker , Audio Alerts , , ,
