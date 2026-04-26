@@ -1,6 +1,6 @@
 <h1>BlindNav: Smart Assistive Navigation </h1>
 Empowering Independence Through Intelligent Obstacle Detection & Real-Time Feedback.
-
+<br>
 <img width="1480" height="2100" alt="final stick design" src="https://github.com/user-attachments/assets/d8645a04-a5bb-4fb4-9df3-0c92f85af765" />
 
 
