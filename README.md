@@ -52,12 +52,7 @@ BlindNav is a smart assistive device designed to provide visually impaired indiv
 
 
 <h1>CAD</h1>
-<div style="display: flex; align-items: flex-start; gap: 10px; ">
-    <img
-src="<img width="553" height="801" alt="3d stick design" src="https://github.com/user-attachments/assets/c5c4fe16-a121-431c-be8e-3e0cf2b6f1bf" />" width="45%" alt="3d stick design">
-    <img
-src="<img width="400" height="700" alt="3d stick design (transparent)" src="https://github.com/user-attachments/assets/db94706c-37aa-40ac-8b90-eb9a05495142" />" width="45%" alt="Internal 3d stick design">
-</div>
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/e2e4a9e0-8637-4fe9-9dbe-4c495f500058" />
 
 
 
