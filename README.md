@@ -1,4 +1,6 @@
-<h1>BlindNav</h1>
+<h1>BlindNav: Smart Assistive Navigation </h1>
+Empowering Independence Through Intelligent Obstacle Detection & Real-Time Feedback.
+
 BlindNav is a smart assistive device designed to help visually impaired individuals navigate their surroundings safely and independently. Built around an ESP32 microcontroller, it combines multiple sensors and feedback systems into a lightweight, rechargeable walking stick that responds to real-world conditions in real time.
 
 The device uses ultrasonic sensors positioned at both ground and head level to detect obstacles across multiple angles. When an obstacle is detected, the stick responds with different vibration patterns - fast pulses for close-range threats and slower pulses for distant ones- giving the user intuitive, immediate awareness without requiring sight or complex interpretation.
