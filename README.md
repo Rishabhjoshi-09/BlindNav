@@ -88,9 +88,9 @@ BlindNav is a smart assistive device designed to provide visually impaired indiv
 | Switch (Power) | Turn device ON/OFF | $1.03 | Amazon | https://amzn.in/d/0fJ4RrQx |
 | Stick Body | Holds All Components | Owned/Custom | - | - |
 
-| **Total Component Price** |  | **$42.15** |  |  |
-| **Shipping Price**        |  | **$3.85**  |  |  |
-| **TOTAL PRICE**           |  | **$46.00** |  |  |
+Total Component Price        = $42.15
+Shipping Price               =  $3.85
+TOTAL PRICE                  = $46.00
 <br><br>
 
 <h1>How It Works</h1>
