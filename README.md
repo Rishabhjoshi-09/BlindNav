@@ -66,6 +66,31 @@ BlindNav is a smart assistive device designed to provide visually impaired indiv
 <img width="500" height="700" alt="Wiring Diagram" src="https://github.com/user-attachments/assets/6689b45c-7df5-4b0f-b640-5c3a435fc7cb" />
 
 
+<h1>BOM List</h1>
+## Bill of Materials (BOM)
+
+| Item | Purpose | Price (USD) | Source | Link |
+|------|--------|-------------|--------|------|
+| ESP32 | Main microcontroller | $7.30 | Amazon | https://amzn.in/d/0gHaoIyY |
+| HC-SR04 Ultrasonic Sensor (x2) | Obstacle Detection (front & head level) | $2.98 | Amazon | https://amzn.in/d/0fAaNY3Y |
+| Vibration Motor | Haptic alert feedback | $2.50 | Amazon | https://amzn.in/d/07rawmSD |
+| Speaker | Audio Alerts | $2.32 | Amazon | https://amzn.in/d/0fhy9WFE |
+| Water Sensor Module | Detects Puddles At Base | $1.80 | Amazon | https://amzn.in/d/0bwGx5IL |
+| SOS Button | Emergency alert trigger | $0.50 | - | - |
+| GPS Module (NEO-6M) | Location Tracking | $4.38 | Flipkart | https://dl.flipkart.com/s/_BzfAxNNNN |
+| Light Sensor (LDR) | Auto Night LED Control | $1.60 | Amazon | https://amzn.in/d/0fZwNgjv |
+| Li-ion Battery (18650) | Power Supply | $3.20 | Amazon | https://amzn.in/d/0aF3MQx7 |
+| TP4056 Charging Module | Battery Charging & Protection | $0.58 | Amazon | https://amzn.in/d/00pfBEQN |
+| Microphone Module | Sound Input | $2.00 | Amazon | https://amzn.in/d/07QyzQxp |
+| DFPlayer Mini | Voice Feedback System | $4.23 | Amazon | https://amzn.in/d/08cgAzWu |
+| Jumper Wires | Connections Between Components | $3.17 | Amazon | https://amzn.in/d/0gfPHjTL |
+| PCB / Perfboard | Mounting components | $4.56 | Amazon | https://amzn.in/d/04OUba8y |
+| Switch (Power) | Turn device ON/OFF | $1.03 | Amazon | https://amzn.in/d/0fJ4RrQx |
+| Stick Body | Holds All Components | Owned/Custom | - | - |
+
+| **Total Component Price** |  | **$42.15** |  |  |
+| **Shipping Price**        |  | **$3.85**  |  |  |
+| **TOTAL PRICE**           |  | **$46.00** |  |  |
 
 
 <h1>How It Works</h1>
