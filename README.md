@@ -83,7 +83,7 @@ BlindNav is a smart assistive device designed to provide visually impaired indiv
 | Microphone Module | Sound Input | $2.00 | Amazon | https://amzn.in/d/07QyzQxp |
 | DFPlayer Mini | Voice Feedback System | $4.23 | Amazon | https://amzn.in/d/08cgAzWu |
 | Jumper Wires | Connections Between Components | $3.17 | Amazon | https://amzn.in/d/0gfPHjTL |
-| PCB / Perfboard | Mounting components | $4.56 | Amazon | https://amzn.in/d/04OUba8y |
+| PCB / Perfboard | Mounting components | $4.56 | Amazon | https://amzn.in/d/040UBa8y |
 | Switch (Power) | Turn device ON/OFF | $1.03 | Amazon | https://amzn.in/d/0fJ4RrQx |
 | Stick Body | Holds All Components | Owned/Custom | - | - |
 
