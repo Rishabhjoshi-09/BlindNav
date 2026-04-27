@@ -70,7 +70,7 @@ BlindNav is a smart assistive device designed to provide visually impaired indiv
 
 | Item | Purpose | Price (USD) | Source | Link |
 |------|--------|-------------|--------|------|
-| ESP32 | Main microcontroller | $7.30 | Amazon | https://amzn.in/d/0gHaoIyY |
+| ESP32 | Main microcontroller | $7.30 | Amazon | https://amzn.in/d/0gHa0y1Y |
 | HC-SR04 Ultrasonic Sensor (x2) | Obstacle Detection (front & head level) | $2.98 | Amazon | https://amzn.in/d/0fAaNY3Y |
 | Vibration Motor | Haptic alert feedback | $2.50 | Amazon | https://amzn.in/d/07rawmSD |
 | Speaker | Audio Alerts | $2.32 | Amazon | https://amzn.in/d/0fhy9WFE |
