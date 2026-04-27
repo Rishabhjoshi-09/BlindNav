@@ -91,7 +91,6 @@ BlindNav is a smart assistive device designed to provide visually impaired indiv
 | **Shipping Price**        |  | **$3.85**  |  |  |
 | **TOTAL PRICE**           |  | **$46.00** |  |  |
 
-<br><br>
 
 <h1>How It Works</h1>
 
